@@ -1,0 +1,158 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    margin:
+        0px 0px;
+
+}
+
+nav {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: auto;
+}
+
+.nav_logotipo {
+    gap: 8px;
+    width: 2px;
+    height: 2px;
+}
+
+.nav_links {
+    gap: 32px;
+}
+
+.nav_acesso {
+    gap: 12px;
+}
+
+.nav_acesso_cadastrar {
+    background-color: #8E2424;
+    color: aliceblue;
+    padding: 10px 18px;
+    border-radius: 8px;
+}
+
+.main_section_sobre {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin: 96px;
+    gap: 24px;
+    align-items: center;
+
+
+
+}
+
+.main_section_sobre_txtsobrep1 {
+
+    align-items: center;
+    justify-content: center;
+    color: #8E2424;
+    font-style: italic;
+
+}
+
+.main_section_sobre_txtsobrep2 {
+    align-content: center;
+    justify-content: center;
+    font-weight: 600;
+    font-size: 48px;
+    font-style: bold;
+    color: #101828;
+    margin: 12px;
+
+}
+
+
+
+.main_section_sobre_txtsobrep3 {
+    font-weight: 400px;
+    color: #667085;
+    font-size: 22px;
+    line-height: 20px;
+    max-width: 792px;
+    text-align: left;
+}
+
+
+
+.main_section_dados {
+    display: flex;
+    padding: 0 96px 96px 96px;
+    gap: 32px;
+}
+
+.main_section_number1 {
+    font-size: 60px;
+    color: #8E2424;
+    font-weight: bold;
+}
+
+.main_section_txt1 {
+
+    font-weight: bold;
+
+}
+
+.main_section_dados_oportunidades {
+    display: flex;
+    align-content: center;
+    justify-content: center;
+
+}
+
+.main_section_dados_oportunidades1 {
+    align-content: center;
+    justify-content: center;
+    font-weight: 550;
+    font-size: 35px;
+    font-style: bold;
+    color: #000000;
+    margin: 12px;
+
+
+}
+
+.main_section_dados_pp2 {
+    display: flex;
+    align-content: center;
+    justify-content: center;
+    align-items: flex-end;
+
+}
+
+.po55 {
+    margin: 0px 0px;
+    background-color: #e2e2e2;
+    padding: 60px 60px;
+}
+
+.main_section_dados_roblox {
+
+    display: flex;
+    align-content: center;
+    justify-content: center;
+    align-items: flex-end;
+ margin: left 10px;
+}
+
+.textooo {
+    border-radius: 6px;
+    height: 25px;
+    width: 200px;
+}
+
+.tra {
+    display: flex;
+    justify-content: space-between;
+    height: 25px;
+    border-radius: 6px;
+    background-color: #8E2424;
+
+}
