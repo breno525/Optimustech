@@ -143,16 +143,23 @@ nav {
 }
 
 .textooo {
-    border-radius: 6px;
-    height: 25px;
-    width: 200px;
+  width: 250px;
+  height: 35px;
+  padding: 0 12px;
+  border: 1px solid #ccc;
+  border-radius: 20px;
+  font-size: 15px;
+  background-color: #f9f9f9;
 }
-
 .tra {
-    display: flex;
-    justify-content: space-between;
-    height: 25px;
-    border-radius: 6px;
-    background-color: #8E2424;
-
+    padding: 9px 25px;
+    border-radius: 60px;
+    border-color: rgb(198, 68, 68);
+    background-color: #8E2424 ;
 }
+.img{
+display: flex;
+justify-content:  center;
+border-radius: 30px;
+}
+
